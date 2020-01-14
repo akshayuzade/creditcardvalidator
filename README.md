@@ -1,4 +1,4 @@
-# creditcardvalidator
+# A Simple Credit Card Validator Tool
 
 A validating credit card is an important point while receiving payment through an HTML form. In this code, I have discussed how to validate a credit card number (in a different format) using JavaScript. There are various companies in financial market offer credit cards. But there is no common format in the credit card numbering system, it varies company to company. 
 
